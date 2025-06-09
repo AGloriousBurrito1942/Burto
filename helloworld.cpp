@@ -88,5 +88,8 @@ std::cout << circumference << "nanometers";
 }
 //Lesson Four:
 void Lesson Four(){
-
+    std::cout << "burrito is a nerd 🤓\n";
+    // you formatted your main function wrong you goob its supposed to be:
+    // int main(int argc, char* argv[]) {}
+    // the contents of it aren't super important for you yet but they are used !!!
 }
